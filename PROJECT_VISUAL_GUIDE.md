@@ -30,7 +30,7 @@ End Users (Analysts, Business Stakeholders)
 
 **Screenshot 1**: Metrics Definition in Metabase
 
-![Metrics Definition](./screenshots/01-metrics-definition.png)
+![Metrics Definition](./screenshots/Screenshot 2026-02-25 131552.png)
 
 **What This Shows**:
 - Created 3 business metrics in Metabase:
@@ -49,7 +49,7 @@ End Users (Analysts, Business Stakeholders)
 
 **Screenshot 2**: Multi-dimensional OLAP Query Results
 
-![OLAP Query](./screenshots/02-revenue-trend-query.png)
+![OLAP Query](./screenshots/Screenshot 2026-02-25 131611.png)
 
 **What This Shows**:
 - Querying data across multiple dimensions simultaneously
@@ -75,7 +75,7 @@ End Users (Analysts, Business Stakeholders)
 
 **Screenshot 3**: Business Intelligence Dashboard
 
-![Dashboard](./screenshots/03-multi-dimensional-filter.png)
+![Dashboard](./screenshots/Screenshot 2026-02-25 131624.png)
 
 **What This Shows**:
 - A complete dashboard using the semantic layer metrics
