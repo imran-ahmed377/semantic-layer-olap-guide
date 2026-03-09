@@ -205,10 +205,6 @@ status='complete')"           ✅ Maintainable!
 2. Document governance rules
 3. Screenshot examples
 
-### Phase 4: Apply (portfolio)
-1. Upload to GitHub
-2. Add to resume
-3. Reference in interviews
 
 ---
 
@@ -303,28 +299,6 @@ Soft Skills:
 - Data warehouse architecture (snowflake schema, slowly changing dimensions)
 - Real-time OLAP (streaming aggregations)
 - OLAP optimization (indexing, materialized views)
-
----
-
-## ❓ FAQ
-
-**Q: How long does this project take?**  
-A: 2-4 hours to complete all steps. You can do it in one afternoon.
-
-**Q: Is this real-world applicable?**  
-A: Yes! These exact concepts are used in every major company's data infrastructure.
-
-**Q: Do I need coding experience?**  
-A: No. Uses Metabase UI. No SQL required (though SQL knowledge helps).
-
-**Q: Can I add this to my resume?**  
-A: Absolutely! See "Skills Gained" section above.
-
-**Q: What's the difference from regular SQL queries?**  
-A: OLAP pre-computes aggregations for 100x+ speed improvement on complex, multidimensional queries.
-
-**Q: Can I scale this to production data?**  
-A: Yes. Use Apache Kylin, Cube.js, or cloud equivalents (Google BigQuery, AWS Redshift, Azure Synapse) for production.
 
 ---
 
